@@ -1,12 +1,3 @@
 zfbgjhsf;gozsdfgjzsdf;ohfdjhDD
 что делаем ?
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-Привет
-Пока
 
-=======
-привет
->>>>>>> Stashed changes
-=======
->>>>>>> parent of 7addadf (Update text.txt)
