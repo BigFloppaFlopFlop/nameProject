@@ -1,5 +1,9 @@
 zfbgjhsf;gozsdfgjzsdf;ohfdjhDD
 что делаем ?
+<<<<<<< Updated upstream
 Привет
 Пока
 
+=======
+привет
+>>>>>>> Stashed changes
